@@ -1,17 +1,17 @@
 ## Hi I'm Punit - punitzen
-- 👋 Pursuing B.tech from Delhi Technological University
+- 👋 Pursuing B.Tech from Delhi Technological University
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Binary Exploitation
+- 🌱 My Favourite domains are Forensics and Binary Exploitation/Reverse Engineering
 
 - 🌱 [TryHackMe Profile](https://tryhackme.com/p/punitzen)
 - 🌱 [Medium](https://punitzen.medium.com/)
+
+![TryHackMe](/punitzen.png)
 
 ### Connect with me:
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/punitkumar4)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/punitzen48)
-
-![TryHackMe](/punitzen.png)
 
 ### Languages and Tool
 
@@ -20,4 +20,5 @@
 <img align="left" alt="django" width="50px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"/>
 <img align="left" alt="linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="kubernetes" width="50px" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg"/>
 <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
