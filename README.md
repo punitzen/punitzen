@@ -1,5 +1,5 @@
-## Hi I'm Punit - punitzen
-- 👋 Pursuing B.Tech from Delhi Technological University
+## 👋 Hi I'm Punit - punitzen
+- 🏫 Pursuing B.Tech from Delhi Technological University
 - 👀 I’m interested in Cybersecurity
 - 🌱 My Favourite domains are Forensics and Binary Exploitation/Reverse Engineering
 
