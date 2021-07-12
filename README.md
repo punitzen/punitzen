@@ -1,6 +1,7 @@
 ## 👋Hi I'm Punit - punitzen
 - 🏫 Pursuing B.Tech from Delhi Technological University
 - 👀 I’m interested in Cybersecurity
+- 💻 I'm a Software developer also, learning problem solving using Data Structures and Algorithms in C++ 
 - 🌱 My Favourite domains are Forensics and Binary Exploitation/Reverse Engineering
 
 - 🌱 [TryHackMe Profile](https://tryhackme.com/p/punitzen)
