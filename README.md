@@ -28,6 +28,6 @@
 <p>&nbsp;</p><p>&nbsp;</p>
 
 <p>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=punitzen&show_icons=true&theme=radical&count_private=true" alt="punitzen's github stats" /> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punitzen&theme=radical&layout=compact" alt="punitzen's github top languages" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=punitzen&show_icons=true&theme=radical&count_private=true"/> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punitzen&theme=radical&layout=compact"/>
  </p>
