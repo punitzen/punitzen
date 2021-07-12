@@ -16,8 +16,9 @@
 
 ### Languages and Tool
 
-<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="cpp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="python" width="45px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg"/>
 <img align="left" alt="mysql" width="26px" src="https://icon-library.com/images/react-icon/react-icon-29.jpg"/>
 <img align="left" alt="python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"/>
 <img align="left" alt="django" width="50px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"/>
