@@ -1,4 +1,4 @@
-## 👋Hi I'm Punit - punitzen
+## 👋Hi I'm Punit Kumar - punitzen
 - 🏫 Pursuing B.Tech from Delhi Technological University
 - 👀 I’m interested in Cybersecurity
 - 💻 I'm a Software developer also, learning problem solving using Data Structures and Algorithms in C++ 
