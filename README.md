@@ -1,7 +1,7 @@
 ## 👋Hi I'm Punit Kumar - punitzen
 - 🏫 B.Tech Graduate from Delhi Technological University
 - 💻 Software Engineer - iOS Developer
-- 👀 I’m interested in Cybersecurity
+- 👀 Interested in Cybersecurity
 - 🌱 [TryHackMe Profile](https://tryhackme.com/p/punitzen)
 - 🌱 [Medium](https://punitzen.medium.com/)
 
