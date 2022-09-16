@@ -1,4 +1,4 @@
-## 👋Hi I'm Punit Kumar - punitzen
+## 👋 Hi I'm Punit Kumar - punitzen
 - 🏫 B.Tech Graduate from Delhi Technological University
 - 💻 Software Engineer - iOS Developer
 - 👀 Interested in Cybersecurity
