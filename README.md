@@ -1,7 +1,6 @@
-## 👋 Hi I'm Punit Kumar - punitzen
+## Haha cringe stuff below, I'm boring lol
 - 🏫 B.Tech Graduate from Delhi Technological University
 - 💻 Software Engineer - iOS Developer
-- 👀 Haha cringe stuff, I'm boring lol
 - 🌱 [TryHackMe Profile](https://tryhackme.com/p/punitzen)
 - 🌱 [Medium](https://punitzen.medium.com/)
 
