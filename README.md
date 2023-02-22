@@ -7,9 +7,6 @@
 
 ![TryHackMe](/punitzen.png)
 
-### Connect with me:
-[<img width="80px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />](http://www.linkedin.com/in/punitkumar4)
-
 ### Languages and Tool
 
 <img align="left" alt="swift" width="30px" src="https://miro.medium.com/max/800/1*KLrw9Oy3qxuBGqrVKXGL_A.png"/>
