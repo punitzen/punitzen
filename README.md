@@ -1,5 +1,4 @@
 ## Haha cringe stuff below, I'm boring lol
-- 🏫 B.Tech Graduate from Delhi Technological University
 - 💻 Software Engineer - iOS Developer
 - 🌱 [TryHackMe Profile](https://tryhackme.com/p/punitzen)
 - 🌱 [Medium](https://punitzen.medium.com/)
