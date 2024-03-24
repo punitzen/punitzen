@@ -1,11 +1,4 @@
-## Haha cringe stuff below, I'm boring lol
 - 💻 Software Engineer - iOS Developer
-- 🌱 [TryHackMe Profile](https://tryhackme.com/p/punitzen)
-- 🌱 [Medium](https://punitzen.medium.com/)
-
-![TryHackMe](/punitzen.png)
-
-### Languages and Tool
 
 <img align="left" alt="swift" width="30px" src="https://miro.medium.com/max/800/1*KLrw9Oy3qxuBGqrVKXGL_A.png"/>
 <img align="left" alt="cpp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
