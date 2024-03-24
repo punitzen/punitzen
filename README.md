@@ -1,4 +1,4 @@
-- 💻 Software Engineer - iOS Developer
+💻 Software Engineer - iOS Developer
 
 <img align="left" alt="swift" width="30px" src="https://miro.medium.com/max/800/1*KLrw9Oy3qxuBGqrVKXGL_A.png"/>
 <img align="left" alt="cpp" width="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_alt_macos_bigsur_icon_189542.png"/>
